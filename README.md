@@ -1,1 +1,1 @@
-# playlist-collab
+# A Collaborative Spotify Playlist
